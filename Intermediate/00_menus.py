@@ -1,4 +1,4 @@
-import os
+import os, time
 
 def menu():
   while True:
@@ -12,12 +12,18 @@ def menu():
 
     if opcion == "1":
       print("Hola.")
+      time.sleep(2)
+      input("Pulsa ENTER para continuar...")
 
     elif opcion == "2":
       print("Pepe")
+      time.sleep(2)
+      input("Pulsa ENTER para continuar...")
 
     elif opcion == "3":
       print("Juan")
+      time.sleep(2)
+      input("Pulsa ENTER para continuar...")
 
 
 menu()
