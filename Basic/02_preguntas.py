@@ -19,3 +19,7 @@ un mensaje en
 print(nombre)
 print(apellido)
 print(edad)
+
+### También se puede hacer así ###
+
+input("Hola, que tal? ")
