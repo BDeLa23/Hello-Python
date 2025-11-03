@@ -2,6 +2,7 @@ import os
 
 def menu():
   while True:
+    os.system("cls")
     print("---MENÚ---")
     print("1) Opción 1")
     print("2) Opción 2")
