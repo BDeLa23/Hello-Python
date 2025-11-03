@@ -12,7 +12,7 @@ cosas por ejemplo: sobre el.
 
 Para más preguntas
 sobre esto enviar
-un mensaje a
+un mensaje en
 #ayuda en discord
 '''
 
