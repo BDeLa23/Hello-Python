@@ -7,7 +7,8 @@ print(2 / 2) # División
 
 '''
 Este codigo lo que hara es decirle
-al Python que sume los numeros que
-le indiques. En el resultado os
-saldrá la respuesta directa.
+al Python que sume los números que
+tu le indiques. En el resultado os
+saldrá la respuesta de la operación
+que hayas escrito directamente.
 '''
