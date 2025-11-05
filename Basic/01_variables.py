@@ -12,3 +12,10 @@ print(edad)
 
 variable = "Pepe Juan."
 print("Hola, " + variable)
+
+'''
+La función de las variables
+permite poder hacer por ejemplo
+calculadoras en Python o operar
+con ellas.
+'''
