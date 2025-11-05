@@ -4,6 +4,13 @@
 print("Hola, Mundo!!")
 print('Hola, Mundo!!')
 
+'''
+La función print("") lo que hace
+es que el texto que le pongas
+dentro de sus comillas va a salir
+al ejecutar el resultado
+'''
+
 
 ### Comentarios ###
 
