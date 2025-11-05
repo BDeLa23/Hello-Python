@@ -8,7 +8,8 @@ edad = input("Cual es tu edad? ")
 input(""):
 La función input("") en
 Python sirve para preguntar
-cosas por ejemplo: sobre el.
+cosas por ejemplo: cosas
+sobre el.
 
 Para más preguntas
 sobre esto enviar
