@@ -19,3 +19,7 @@ permite poder hacer por ejemplo
 calculadoras en Python o operar
 con ellas.
 '''
+
+nombre2 = input("Cual es tu nombre? ")
+apellido2 = input("Cual es tu apellido? ")
+print(f"Hola, {nombre2} {apellido2}.")
