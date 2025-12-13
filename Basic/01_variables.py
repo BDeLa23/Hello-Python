@@ -23,3 +23,9 @@ con ellas.
 nombre2 = input("Cual es tu nombre? ")
 apellido2 = input("Cual es tu apellido? ")
 print(f"Hola, {nombre2} {apellido2}.")
+
+'''
+Pide al usuario que escriba
+su nombre y su apellido, y luego
+muestra un saludo personalizado con esos datos.
+'''
