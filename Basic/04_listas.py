@@ -2,7 +2,7 @@
 Las listas son variables
 pero si comienzas con corcheras
 y pones los números tienen un
-orden. (Tmabién se puede hacer 
+orden. (También se puede hacer 
 con texto)
 '''
 
