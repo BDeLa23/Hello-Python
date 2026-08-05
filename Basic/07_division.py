@@ -17,7 +17,7 @@ print(language_slice)
 '''
 El patrón que usa es:
 inicio:final:salto
-el salto predeterminado el valor es 1
+el salto predeterminado el valor es 1. (si lo dejas vacío)
 
 inicio: desde dónde empezar (si se omite, empieza al principio).
 final: hasta dónde llegar (si se omite, llega hasta el final).
